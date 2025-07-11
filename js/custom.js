@@ -37,7 +37,7 @@ $('.slick_slider_nav').slick({
 
 function myMap() {
     var mapProp = {
-        center: new google.maps.LatLng(19.11628444386575, 72.8984132717555),
+        center: new google.maps.LatLng(19.104912627259278, 72.89455533504439),
         zoom: 18,
     };
     var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);

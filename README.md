@@ -1,2 +1,2 @@
 # icfurniture
-IC Furniture Manufacturer
+CS Sofa Maker
